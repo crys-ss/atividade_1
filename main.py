@@ -1,6 +1,6 @@
 '''Programa Um código em Python para percorrer arquivos e subdiretórios de um determinado diretório,
  identificar arquivos e contar o número de vezes que as palavras aparecem nesses arquivos.
-As palavras serão então  classificadas com as 10000 principais palavras que ocorrem sendo exibidas
+As palavras serão então  classificadas com as 100000 principais palavras que ocorrem sendo exibidas
 para o usuário'''
 
 #importa biblioteca os do python
